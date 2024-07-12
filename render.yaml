@@ -7,4 +7,4 @@ services:
     startCommand: npm start
     envVars:
       - key: MONGO_URI
-        value: <your-mongo-uri>
+        value: mongodb+srv://hectorzheng4:Hector7126216!@hectorz.8d5rczo.mongodb.net/?retryWrites=true&w=majority&appName=HectorZ
